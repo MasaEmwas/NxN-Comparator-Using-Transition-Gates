@@ -4,12 +4,12 @@ This project is a design of an NxN bit comparator using Transmission Gate with t
 
 ---
 ### Project Structure
-- **ICProjectNEWFINAL.jelib:** Contains all the schematic files and gate symbols for the project.
+- **ICProjectNEWFINAL.jelib:** Contains all the schematic files and Logic Gate symbols for the project.
 - **IC_Report.pdf:** A PDF Report
 - **README.md:** This file.
 
 --- 
-**Note**: The PDF file provides a detailed explanation of the project with figures, tables, graphs and schematic waveforms to represent the results. Furhter, there are many examples with different input data and the corresponding schematic output waveform results. Feel free to refer to it for a more comprehensive understanding of the concepts.
+**Note**: The PDF file provides a detailed explanation of the project with figures, tables, graphs, and schematic waveforms to represent the results. Furhter, there are many examples with different input data and the corresponding schematic output waveform results. Feel free to refer to it for a more comprehensive understanding of the concepts.
 
 ---
 ### Programs Used:
@@ -31,4 +31,4 @@ This project is a design of an NxN bit comparator using Transmission Gate with t
    In your LTspice schematic, locate the line that includes the C5_models.txt file:
    ![here](https://github.com/user-attachments/assets/de83aabb-5b9a-49d1-8dd7-41672a221078)
 
-   Replace /Users/masaemwas/Desktop/ICDownloads/C5_models.txt with the actual path to the location where you saved the C5_models.txt file on your computer. 
+   **Replace** /Users/masaemwas/Desktop/ICDownloads/C5_models.txt with the actual path to the location where you saved the C5_models.txt file on your computer. 
