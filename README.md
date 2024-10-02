@@ -28,7 +28,8 @@ This project is a design of an NxN bit comparator using Transmission Gate with t
      Click **File** --> **Open Library** --> Navigate to the ICProjectNEWFINAL.jelib Project folder and select it.
 
 4. **Update the include Path**
-   In your LTspice schematic, locate the line that includes the C5_models.txt file:
+   In your LTspice schematic, locate the line that includes the C5_models.txt file: (Shown in **Red** in the figure below)
+   
    ![here](https://github.com/user-attachments/assets/de83aabb-5b9a-49d1-8dd7-41672a221078)
 
    **Replace** /Users/masaemwas/Desktop/ICDownloads/C5_models.txt with the actual path to the location where you saved the C5_models.txt file on your computer. 
